@@ -25,7 +25,7 @@ I enjoy building real-world projects, contributing to open source, and solving p
 
 ## 🔭 Current Work
 
-- Doctor Appointment System (MERN)
+- QuicMed(MERN)
 - Open Source Contributions (GSoC 2026)
 - Agentic AI / LLM Projects
 - Backend APIs with Node.js / Express
