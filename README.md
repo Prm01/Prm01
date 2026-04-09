@@ -59,6 +59,8 @@ I enjoy building real-world projects, contributing to open source, and solving p
 - GitHub: https://github.com/Prm01
 - LinkedIn: https://linkedin.com/in/pramod-yadav-7810b5299
 - Portfolio: https://my-personal-developer-portfolio-1.onrender.com/
+- FinanceUIDashboard: https://finance-dashboard-ui-1.onrender.com/
+- Doctor Appointment: https://full-stack-project-1-vau7.onrender.com/
 
 ---
 
