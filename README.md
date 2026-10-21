@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pramod+Yadav+%F0%9F%91%8B;Full+Stack+%26+AI+Developer;Frontend+%7C+Backend+%7C+Cloud;Open+Source+Contributor;GSoC+2026+Aspirant" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pramod+Yadav+%F0%9F%91%8B;Full+Stack+%26+AI+Developer;Frontend+%7C+Backend+%7C+Cloud;Open+Source+Contributor" alt="Typing intro" />
 
 **B.Tech Mathematics & Computing @ RGIPT (2023–2027)**
 
 I build full-stack and AI-powered products end to end, from the React interface and the API to the database and the cloud deploy.
 I like real-world problems, clean and accessible UIs, solid APIs and solving things with data structures & algorithms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramod-yadav-7810b5299)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=renderco&logoColor=white)](https://my-personal-developer-portfolio-1.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=renderco&logoColor=white)](https://my-personal-developer-portfolio.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-yadav-7810b5299/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mc3037@rgipt.ac.in)
 
 </div>
@@ -17,15 +17,16 @@ I like real-world problems, clean and accessible UIs, solid APIs and solving thi
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Mathematics & Computing at **RGIPT** (2023–2027)
-- 🎨 Frontend: **React, Tailwind CSS, JavaScript**, with accessibility in mind (Lighthouse 100, WCAG 2.1 AA)
+- 🎓 B.Tech in Mathematics & Computing at **RGIPT, Jais** (2023–2027)
+- 🎨 Frontend: **React, Tailwind CSS, JavaScript**, built with accessibility in mind (Lighthouse 100, WCAG 2.1 AA)
 - 💻 Backend: **Python (FastAPI), Node.js, Express, PostgreSQL, MongoDB**
 - 🧩 Full stack: **MERN** apps with JWT auth, role-based dashboards and payments
-- ☁️ Cloud: **AWS**, with Docker and CI/CD (GitHub Actions)
+- ☁️ Cloud and DevOps: **AWS**, Docker, CI/CD (GitHub Actions)
 - 🤖 AI/ML: LLMs, Agentic AI, Transformers, time-series forecasting
-- 🌍 Open source contributor: **Learning Unlimited**, **Neutralinojs**, aiming for **GSoC 2026**
-- 📚 Learning: System Design and DSA (500+ problems solved)
-- 🏆 Cleared **JEE Main & JEE Advanced** (top 2%)
+- 🌍 Open Source: contributed to two organizations, **Learning Unlimited** and **Neutralinojs**
+- 💼 Automation Intern at **Polluxa**: cut lead processing from 30 to 10 minutes with Playwright
+- 📚 500+ DSA problems solved on CodeChef, Codeforces and GeeksforGeeks; learning System Design
+- 🏆 Qualified **JEE Main & JEE Advanced** (top 2%) · Design Executive, GDSC RGIPT
 
 ---
 
@@ -34,7 +35,7 @@ I like real-world problems, clean and accessible UIs, solid APIs and solving thi
 | Project | What it does | Stack |
 | --- | --- | --- |
 | 🌡️ **[Rahat](https://github.com/Prm01/Rahat)** ([live](https://d17rx6mkixl5iz.cloudfront.net/)) | Heat and flood early warning for Delhi's 290 wards, with a citizen reporting app, AI-drafted alerts in English and Hindi, a chat/voice assistant, an MCP server and Web Push alerts. Built for Hackathon 2026. | Python, FastAPI, PostgreSQL, Docker, AWS (Bedrock, Rekognition, S3, RDS, CloudFront) |
-| 📜 **[BhoomiAI](https://smart-land-digitization.vercel.app/)** | Intelligent land record digitization and validation: OCR and Agentic AI verification of handwritten Hindi/English records, with human review and an audit log. Smart India Hackathon. | Python, TrOCR, LangChain, Streamlit |
+| 📜 **[BhoomiAI](https://smart-land-digitization.vercel.app/)** | Intelligent land record digitization and validation: OCR and Agentic AI verification of handwritten Hindi/English records (92% field accuracy), with human review and an audit log. Smart India Hackathon. | Python, TrOCR, LangChain, Streamlit |
 | 🏥 **[Doctor Appointment System](https://full-stack-project-1-vau7.onrender.com/)** | Full-stack booking and payments platform with Patient, Doctor and Admin dashboards. | MERN, JWT, Tailwind CSS |
 | 📊 **[Finance Dashboard UI](https://finance-dashboard-ui-1.onrender.com/)** | Responsive finance dashboard interface. | React |
 
@@ -43,9 +44,9 @@ I like real-world problems, clean and accessible UIs, solid APIs and solving thi
 ## 🔭 Currently
 
 - 🛠️ Building full-stack apps: React frontends with FastAPI and Node.js backends
-- 🤝 Contributing to open source ahead of GSoC 2026
+- 🤝 Contributing to open source
 - 🧠 Exploring Agentic AI and LLM tool-use systems
-- 🏗️ Studying System Design
+- 🏗️ Studying System Design and DSA
 
 ---
 
@@ -67,6 +68,14 @@ I like real-world problems, clean and accessible UIs, solid APIs and solving thi
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Prm01&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌐 Portfolio: https://my-personal-developer-portfolio.onrender.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pramod-yadav-7810b5299/
+- 📧 Email: 23mc3037@rgipt.ac.in
 
 ---
 
