@@ -9,7 +9,7 @@ I like real-world problems, solid systems, clean and accessible UIs, and solving
 
 `Go` · `Python` · `React` · `AWS` · `LLM infrastructure` · `500+ DSA problems` · `JEE Advanced qualified`
 
-[![Recura live demo](https://img.shields.io/badge/Recura-Live_demo-E0A100?style=for-the-badge&logo=go&logoColor=black)](http://recura-demo.ap-south-2.elasticbeanstalk.com)
+[![Recura live demo](https://img.shields.io/badge/Recura-Live_demo-E0A100?style=for-the-badge&logo=go&logoColor=black)](https://github.com/Prm01/recura)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=renderco&logoColor=white)](https://my-personal-developer-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-yadav-7810b5299/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mc3037@rgipt.ac.in)
